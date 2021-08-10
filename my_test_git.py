@@ -2,4 +2,4 @@ hungry = input("Are you hungry?")
 if hungry == "yes":
     print("eat Samosa")
 else:
-    print("eat something re")
+    print("eat something re.....")
