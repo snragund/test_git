@@ -8,3 +8,7 @@ else:
     thirsty = input("Are you thirsty?:")
     if thirsty == "yes":
         print("Drink water")
+        print("Drink Soda")
+    tired = input("Are you tired?:")
+    if tired == "yes":
+        print("Drink energy drink")
